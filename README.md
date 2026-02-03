@@ -1,6 +1,8 @@
 Open in colab to view interactive plots
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S3TsNtdBD-Dok4O6JAsbXT50_y-0b25V?usp=sharing)
+
+
 Project Overview
 This project provides a deep-dive exploratory data analysis (EDA) of the COVID-19 pandemic. By synthesizing three distinct datasets—global country-level statistics, time-series growth data, and specific US mortality figures—this study transforms raw, often inconsistent data into actionable insights. The analysis focuses on understanding the virus's trajectory, the efficiency of global testing, and the demographic risk factors associated with mortality.
 
